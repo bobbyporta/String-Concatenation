@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 public class StringConcatenation {
    public static String Concatenation(String str1, String str2, String str3) {
